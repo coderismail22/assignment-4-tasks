@@ -1,4 +1,4 @@
-
+# Sporting goods business
 
 Suppose, you are building a comprehensive e-commerce website for your sporting goods business, offering a wide range of equipment and accessories for various sports. **On this platform, there will be a single user role that can handle both customer and admin tasks.**
 
